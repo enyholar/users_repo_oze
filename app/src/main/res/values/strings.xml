@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">GithubUserRepo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details">User Detail</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="users">Users</string>
+    <string name="clear_favorite">Clear Favorite</string>
+    <string name="username">Username</string>
+    <string name="score">Score</string>
 </resources>
